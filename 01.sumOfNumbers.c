@@ -1,5 +1,5 @@
-include<stdio.h>
-int main
-{
-    printf("New Start");
+#include <stdio.h>
+int main() {
+   printf("New Start!");
+   return 0;
 }
