@@ -10,18 +10,18 @@ int main(){
     int a;
     int b;
 
-    cout << "Enter tour name: ";
+    cout << "Enter your name: ";
     cin >> Name; // This command will take input and store it in the Name variable
+    cout << "Your name is " << Name << endl; // "endl" means end of line
+
 
     cout << "Enter value of a: ";
     cin >> a;
 
-    cout << "Enter value of b";
+    cout << "Enter value of b: ";
     cin >> b;
 
-    cout << a+b;
-
-    cout << "Your name is: " << Name;
+    cout << "The Sum of a and b is: " << a+b;
 
 return 0;
 }
