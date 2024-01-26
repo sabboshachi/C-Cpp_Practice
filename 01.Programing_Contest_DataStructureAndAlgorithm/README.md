@@ -8,7 +8,7 @@ Here, I’m following the book named “Programming Contest Data Structure and A
 ## The Chapter List:
 
 01. Introduction
-02. C Review 
+02. [C Review](https://github.com/sabboshachi/C-Cpp_Practice/tree/main/01.Programing_Contest_DataStructureAndAlgorithm/Chapter_2) 
 03. Math
 04. Sorting and Searching
 05. Data Structure
