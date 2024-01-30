@@ -21,7 +21,6 @@ int main(){
     else{
         cout << year << " is not leap year." << endl;
     }
-    
     return 0;
 
 }
