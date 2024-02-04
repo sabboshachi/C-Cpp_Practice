@@ -7,12 +7,12 @@
 using namespace std;
 
 int main(){
-    double number = 25, sqroot,x,y;
+    double number, sqroot,x,y;
     int a,b;
 
-    // cout << "Enter a number: ";
+    cout << "Enter a number: ";
 
-    // cin >> number;
+    cin >> number;
 
     sqroot = sqrt(number);
     
