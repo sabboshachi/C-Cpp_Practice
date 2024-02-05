@@ -30,7 +30,7 @@ int main(){
 
     // We can do this math just by applying the bellow command
     // Calculate the square root and round to the nearest integer
-    // int nearestInteger = round(sqrt(number))
+    // int nearestInteger = round(sqrt(number)) 0
 
     return 0;
 }
