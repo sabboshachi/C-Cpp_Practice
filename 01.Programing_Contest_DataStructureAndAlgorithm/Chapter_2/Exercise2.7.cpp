@@ -22,17 +22,14 @@ int main(){
         // Reverse Number 
         while (original !=0)
         {
-            
             reversed = reversed*10 + original%10;
             original /= 10;
         }
 
         // Check if the number is palindrome
-
         if(num == reversed){
             ++count;
         }
-        
     }
     cout << "The "<< n <<"th palindrome number is: "<< num <<endl;
     return 0;
