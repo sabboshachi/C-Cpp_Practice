@@ -34,7 +34,7 @@ int main(){
     for(i=1;i*2<1000;i=i*2){
         // cout << i << endl;
     }
-    cout << "Final value of a: " << i << endl;
+    cout << "Final value of 'a': " << i << endl;
 
    return 0;
 }
