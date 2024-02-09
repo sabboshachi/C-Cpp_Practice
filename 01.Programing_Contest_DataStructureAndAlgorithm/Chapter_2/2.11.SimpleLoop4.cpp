@@ -14,6 +14,7 @@ int main(){
             sum +=1;
         }
     }
+    // here there is a loop inside another loop. this is known as nested loop
     return 0;
 }
 
