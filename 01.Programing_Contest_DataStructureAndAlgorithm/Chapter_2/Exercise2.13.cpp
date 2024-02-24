@@ -5,13 +5,12 @@
 using namespace std;
 
 int main(){
-    int n, i, sum=0;
+    int m,n, i, sum=0;
     cout << "Enter the value of n: ";
     cin >> n;
 
     for(int i=1; i<=n; i++){
-        i=i*i;
-        sum = sum+i;
+        sum = sum + (i*i);
     }
     cout << sum;
     return 0;
