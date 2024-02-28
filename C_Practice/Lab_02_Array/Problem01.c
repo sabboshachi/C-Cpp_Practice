@@ -3,9 +3,8 @@
 #include<stdio.h>
 
 int main(){
-
     int marks[20],i,n,sum=0;
-    printf("Enter number of sutdets: ");
+    printf("Enter number of sutdets : ");
     scanf("%d",&n);
     for(i=0;i<n;i++){
         printf("Enter marks of student %d : ", i+1);
