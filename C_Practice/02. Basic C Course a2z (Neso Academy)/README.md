@@ -1,4 +1,4 @@
-<h1>C Programming & Data Structures </h1>
+# C Programming & Data Structures
 
 Video Lecture [Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&si=kR9xMoRxZXHNmGL-) from Neso Academy.
 
@@ -8,7 +8,7 @@ These lectures are also useful for college going students and students who are p
 
 Following is the syllabus.
 
-** C Programming: **
+## C Programming:
 1) Introduction to the course.
 2) Variables 
 3) Global vs Local variables. 
@@ -22,7 +22,7 @@ Following is the syllabus.
 11) Structure and union 
 12) File Handling
 
-** Data Structures:**
+## Data Structures:
 1) Stacks  
 2) Queues  
 3) Linked list 
