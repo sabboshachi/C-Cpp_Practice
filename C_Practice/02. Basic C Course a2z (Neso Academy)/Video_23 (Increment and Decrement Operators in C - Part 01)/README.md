@@ -1,5 +1,4 @@
-# Video_00 (Topic Name)
+# Video_23 (Increment and Decrement Operators in C - Part 01)
 
-## [Video Link](#)
+## [Video Link](https://youtu.be/Lpo1QYsuAmM?si=YGJvYHVEKKMQTzMB)
 
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
