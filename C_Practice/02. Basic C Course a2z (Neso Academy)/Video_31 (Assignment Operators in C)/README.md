@@ -4,13 +4,13 @@
 
 ## Different Assignment Operators in C
 
-+=  ---> First Addition then Assignment 
--=  ---> First Subtraction then Assignment
-*=  ---> First Multiplication then Assignment
-/=  ---> First Division then Assignment
-%=  ---> First Modulus then Assignment
-<<= ---> First Bitwise Left Shift then Assignment
->>= ---> First Bitwise Right Shift then Assignment
-&=  ---> First Bitwise AND then Assignment
-|=  ---> First Bitwise OR then Assignment
-^=  ---> First XOR then Assignment
+01. +=  ---> First Addition then Assignment </br>
+02. -=  ---> First Subtraction then Assignment </br>
+03. *=  ---> First Multiplication then Assignment </br>
+04. /=  ---> First Division then Assignment </br>
+05. %=  ---> First Modulus then Assignment </br>
+06. <<= ---> First Bitwise Left Shift then Assignment </br>
+07. >>= ---> First Bitwise Right Shift then Assignment </br>
+08. &=  ---> First Bitwise AND then Assignment </br>
+09. |=  ---> First Bitwise OR then Assignment </br>
+10. ^=  ---> First XOR then Assignment </br>
