@@ -1,5 +1,4 @@
-# Video_00 (Topic Name)
+# Video_30 (Bitwise Operators in C - Part 04)
 
-## [Video Link](#)
+## [Video Link](https://youtu.be/kYR5biY4OHw?si=Tem2ZFgd6h5yBRN9)
 
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)

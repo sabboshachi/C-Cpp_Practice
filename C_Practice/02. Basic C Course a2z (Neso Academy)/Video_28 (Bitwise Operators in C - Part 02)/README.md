@@ -1,5 +1,3 @@
-# Video_00 (Topic Name)
+# Video_28 (Bitwise Operators in C - Part 02)
 
-## [Video Link](#)
-
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
+## [Video Link](https://youtu.be/8aFik6lPPaA?si=0oKbWB12xBrcGkCD)
