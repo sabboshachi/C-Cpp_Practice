@@ -31,3 +31,6 @@ Following is the syllabus.
 6) Binary Heaps  
 7) Graphs  
 8) Tree Traversals  
+
+## ASCII Table
+## ![Alt text](ASCII-Table-wide.svg.png)

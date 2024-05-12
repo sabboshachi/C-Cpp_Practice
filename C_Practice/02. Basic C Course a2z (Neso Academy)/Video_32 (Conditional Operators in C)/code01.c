@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-
     int var = 75;
     int var2 = 56;
     int num;
