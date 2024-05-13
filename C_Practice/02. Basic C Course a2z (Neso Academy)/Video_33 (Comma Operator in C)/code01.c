@@ -8,4 +8,4 @@ int main(){
 // Comma Operator simply returns the right most operand in the experession and 
 // it simply evaluates the rest of the operand and finally rejects them.
 
-// So, FIrst Evaluation then Rejection
+// So, First Evaluation then Rejection
