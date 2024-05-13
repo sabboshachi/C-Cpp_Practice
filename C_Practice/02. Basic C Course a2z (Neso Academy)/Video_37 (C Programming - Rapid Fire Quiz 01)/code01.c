@@ -1,7 +1,9 @@
-// Proble 10
+// Proble 08
 
-#include<stdio.h>
-int main(){
-    unsigned int var = 10;
-    printf("%d", ~var);
+#include<stdio.h> 
+int var = 5; 
+int main(){ 
+    int var = var; 
+    printf("%d", var); // This will produce garbadge values
 }
+
