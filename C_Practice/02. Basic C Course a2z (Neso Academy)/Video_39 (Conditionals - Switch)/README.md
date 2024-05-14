@@ -1,5 +1,4 @@
-# Video_00 (Topic Name)
+# Video_39 (Conditionals - Switch)
 
-## [Video Link](#)
+## [Video Link](https://www.youtube.com/watch?v=-JMSaLRqsgo&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=39)
 
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
