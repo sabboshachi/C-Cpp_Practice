@@ -1,5 +1,10 @@
-# Video_00 (Topic Name)
+# Video_40 (for and while Loops)
 
-## [Video Link](#)
+## [Video Link](https://youtu.be/qUPXsPtWGoY?si=nzrpxwiy_7QLWe3o)
 
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
+
+## While Loop
+## ![Alt text](c-while-loop_0.jpg)
+
+## For Loop
+## ![Alt text](c-for-loop.jpg)
