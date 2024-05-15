@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
-    int x = 2.5, y = 3;
+    float x = 2.5, y = 3; // cannot use float value it switch statement 
+    // only integer value can be used 
 
     switch(x+y){
         
