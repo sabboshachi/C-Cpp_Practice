@@ -1,6 +1,10 @@
-# Video_00 (Do ehile loops)
+# Video_41 (do-while loops)
 
 
-## [Video Link](#)
+## [Video Link](https://www.youtube.com/watch?v=TjkJQly2YCw&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=41)
 
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
+## Syntax
+## ![Alt text](do_while_loop_syntax.png)
+
+## Flow Chart
+## ![Alt text](dowhileloopinc.png)
