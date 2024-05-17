@@ -8,9 +8,9 @@ int main(){
         q /= 10;
     }
     if (result == number){
-        printf("The number is Palindrom.");
+        printf("The number is Palindrome .");
     }else{
-        printf("The number is not Palindrom.");
+        printf("The number is not Palindrome .");
     }
 
 
