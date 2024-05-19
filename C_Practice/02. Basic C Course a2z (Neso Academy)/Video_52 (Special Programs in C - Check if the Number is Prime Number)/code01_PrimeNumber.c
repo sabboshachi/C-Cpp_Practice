@@ -18,7 +18,7 @@ int main(){
     }
 
     // Step 03:
-    if ((count == 0 && number != 1) || number == 2 || number == 3)
+    if ((count == 0 && number != 1) || number == 2 || number == 3) // Here we check if the number is 1, 2 or 3
     printf("The Number is a prime number.");
     else
     printf("The number is not a prime number.");
