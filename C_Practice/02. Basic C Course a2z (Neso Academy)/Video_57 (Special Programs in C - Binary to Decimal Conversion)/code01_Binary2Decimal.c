@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 
-    int binary = 1000000000, weight = 1, decimal = 0, rem;
+    int binary = 1010, weight = 1, decimal = 0, rem;
 
     // printf("Enter a binary number:");
     // scanf("%d", &binary);
