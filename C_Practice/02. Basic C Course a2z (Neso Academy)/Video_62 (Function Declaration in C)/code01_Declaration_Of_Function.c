@@ -1,5 +1,6 @@
 #include<stdio.h>
-char fun(); // decalration of function without any parameter
+char fun(); // decalration of function without any parameter 
+// also known as function prototypes
 
 int main(){
     char c = fun(); // when compiler read this line it jumps to the function line
