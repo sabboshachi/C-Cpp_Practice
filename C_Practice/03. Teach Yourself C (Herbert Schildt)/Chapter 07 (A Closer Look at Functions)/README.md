@@ -1,5 +1,4 @@
-# Chapter 07
-# A Closer Look at Functions
+# Chapter 07 - A Closer Look at Functions
 
 ## Topics:
 
