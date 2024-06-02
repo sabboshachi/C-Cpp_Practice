@@ -1,5 +1,5 @@
 # Data Science from Scratch
-<img align="right" src="images.jpeg" width="205" height="325" alt="image" />
+<img align="right" src="images.jpeg" width="205" height="275" alt="image" />
 This book is unique in its application of mastery learning to teach the C language. Each concept is introduced individually, followed by numerous examples and exercises to ensure thorough understanding. This method guarantees mastery of each topic before progressing to the next.
 
 The material is presented sequentially, necessitating careful study of each chapter. Each chapter builds on the knowledge presented in the preceding ones, so a comprehensive understanding of earlier material is essential.
