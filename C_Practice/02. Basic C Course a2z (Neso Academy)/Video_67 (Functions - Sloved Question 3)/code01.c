@@ -9,3 +9,5 @@ int main(){
     printf("%d ",fun());
     return 0;
 }
+// every time the function is called
+// whole function will run means decrement will happen
