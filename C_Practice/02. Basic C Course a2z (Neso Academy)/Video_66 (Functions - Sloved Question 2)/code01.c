@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void f1(int a, int b){
     int c;
     c = a;
