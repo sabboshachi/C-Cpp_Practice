@@ -23,5 +23,7 @@ int fun2(int b){
     return c;
 }
 
+// For Dynamic Scoping Output will be 30
+
 // Details of the code is in LecturnNote_71
 
