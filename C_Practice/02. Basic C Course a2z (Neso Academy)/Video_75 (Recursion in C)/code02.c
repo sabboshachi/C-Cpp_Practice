@@ -16,4 +16,6 @@ int main(){
 // Here we need to understand the flow of function 
 // fun(3) ---> return 1 + fun(2) ---> return 1 + fun(1) ---> return 1
 //                                                              |
-//  <--               <--                   <--              <--
+//  <--3             <--3                  <--2              <--1
+
+// Output = 3
