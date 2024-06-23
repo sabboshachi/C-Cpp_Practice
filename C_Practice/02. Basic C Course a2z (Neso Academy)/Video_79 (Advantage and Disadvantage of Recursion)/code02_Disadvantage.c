@@ -1,3 +1,8 @@
+// disadvantage of Recursion
+
+// 1. Slower and use more memory 
+// 2. excessive recursive depth can lead to stack overflow, specially with limited stack size
+
 // Factorial of Number
 
 // ### Iterative Process ###
@@ -42,3 +47,5 @@ int main(){
 // fact(4)
 // fact(5)
 // main() 
+
+
