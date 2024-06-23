@@ -21,7 +21,6 @@ int fact(int n){
     }
     return res;
 }
-
 int main(){
     printf("%d", fact(5));
     return;
@@ -41,3 +40,6 @@ int main(){
     printf("%d",fact(5));
     return 0;
 }
+
+// Here we can see both code does the same work but in recursion it requires less line of code 
+// and easier to understand
