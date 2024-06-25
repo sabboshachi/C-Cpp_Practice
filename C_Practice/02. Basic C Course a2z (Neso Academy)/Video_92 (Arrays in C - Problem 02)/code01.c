@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 int main(){
-    int number = 67827, x, reminder = 0, count = 0;
+    int number = 67827,reminder = 0;
     
     int a[10] = {0};
     // here we will target the index number, not the value
