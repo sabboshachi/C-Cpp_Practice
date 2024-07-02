@@ -1,5 +1,4 @@
-# Video_00 (Topic Name)
+# Video_101 (Variable Length Arrays in C)
 
-## [Video Link](#)
+## [Video Link](https://youtu.be/JW3Vg0xpJLY?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
