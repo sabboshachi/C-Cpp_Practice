@@ -1,4 +1,4 @@
-// Declaring and Inintializing Pointers in C
+// Declaring and Initializing  Pointers in C
 
 // General Syntax:
 
