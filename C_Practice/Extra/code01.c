@@ -1,4 +1,4 @@
-// Pascalse Triangle
+// pascals Triangle
 
 #include <stdio.h>
 int main() {
