@@ -1,5 +1,3 @@
-# Video_00 (Topic Name)
+# Video_111 (Pointer Arihmetic - Increment & Decrement)
 
-## [Video Link](#)
-
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
+## [Video Link](https://youtu.be/gwqbYnxQGR8?si=tBiZrbEu-ezdXNZE)
