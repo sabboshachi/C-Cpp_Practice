@@ -1,5 +1,3 @@
-# Video_00 (Topic Name)
+# Video_112 (Pointer Arihmetic - Comparing the Pointers)
 
-## [Video Link](#)
-
-## ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*0D9zGIQXQEIZFYD9tpRXgQ.png)
+## [Video Link](https://youtu.be/nYHA3eZuhzc?si=2pNldEdGkQMlnXnu)
