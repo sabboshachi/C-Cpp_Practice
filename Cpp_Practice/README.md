@@ -1,2 +1,2 @@
 # C/C++ Crash Course.
-In this repository I tried to review all the basic concept related to C and C++. This two language are mostly same except C++ having OOP. In this section OOP isn't our concern.  We'll work through the basic coding of these languages and will try to slove different types of problems.
+In this repository, I aim to provide a comprehensive review of fundamental concepts related to C and C++. These two languages share many similarities, with the primary distinction being C++'s support for Object-Oriented Programming (OOP). This repository will guide readers through the essential coding practices in both languages and present solutions to a variety of problem types.
