@@ -9,6 +9,7 @@ These lectures are also useful for college going students and students who are p
 Following is the syllabus.
 
 ## C Programming:
+<img align="right" src="img/C_List.jpg" width="300" height="250" alt="image" />
 1) Introduction to the course.
 2) Variables 
 3) Global vs Local variables. 
